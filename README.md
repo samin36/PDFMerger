@@ -1,6 +1,6 @@
 # PDFMerger
 Python GUI that can merge PDF files. 
-# Demo
+# Screenshot
 ![Demo](https://raw.githubusercontent.com/samin36/PDFMerger/master/demo.png)
 
 # Installation:
